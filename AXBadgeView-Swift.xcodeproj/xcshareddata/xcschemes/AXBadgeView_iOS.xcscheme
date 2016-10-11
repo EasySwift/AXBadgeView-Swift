@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Scheme
-   LastUpgradeVersion = "0720"
+   LastUpgradeVersion = "0800"
    version = "1.3">
    <BuildAction
       parallelizeBuildables = "YES"
@@ -14,9 +14,9 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "011308EE1C7D9D7600C02261"
-               BuildableName = "AXBadgeView-Swift.app"
-               BlueprintName = "AXBadgeView-Swift"
+               BlueprintIdentifier = "DE3120751DAD467A00BD780A"
+               BuildableName = "AXBadgeView_iOS.framework"
+               BlueprintName = "AXBadgeView_iOS"
                ReferencedContainer = "container:AXBadgeView-Swift.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -29,15 +29,6 @@
       shouldUseLaunchSchemeArgsEnv = "YES">
       <Testables>
       </Testables>
-      <MacroExpansion>
-         <BuildableReference
-            BuildableIdentifier = "primary"
-            BlueprintIdentifier = "011308EE1C7D9D7600C02261"
-            BuildableName = "AXBadgeView-Swift.app"
-            BlueprintName = "AXBadgeView-Swift"
-            ReferencedContainer = "container:AXBadgeView-Swift.xcodeproj">
-         </BuildableReference>
-      </MacroExpansion>
       <AdditionalOptions>
       </AdditionalOptions>
    </TestAction>
@@ -51,16 +42,15 @@
       debugDocumentVersioning = "YES"
       debugServiceExtension = "internal"
       allowLocationSimulation = "YES">
-      <BuildableProductRunnable
-         runnableDebuggingMode = "0">
+      <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "011308EE1C7D9D7600C02261"
-            BuildableName = "AXBadgeView-Swift.app"
-            BlueprintName = "AXBadgeView-Swift"
+            BlueprintIdentifier = "DE3120751DAD467A00BD780A"
+            BuildableName = "AXBadgeView_iOS.framework"
+            BlueprintName = "AXBadgeView_iOS"
             ReferencedContainer = "container:AXBadgeView-Swift.xcodeproj">
          </BuildableReference>
-      </BuildableProductRunnable>
+      </MacroExpansion>
       <AdditionalOptions>
       </AdditionalOptions>
    </LaunchAction>
@@ -70,16 +60,15 @@
       savedToolIdentifier = ""
       useCustomWorkingDirectory = "NO"
       debugDocumentVersioning = "YES">
-      <BuildableProductRunnable
-         runnableDebuggingMode = "0">
+      <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "011308EE1C7D9D7600C02261"
-            BuildableName = "AXBadgeView-Swift.app"
-            BlueprintName = "AXBadgeView-Swift"
+            BlueprintIdentifier = "DE3120751DAD467A00BD780A"
+            BuildableName = "AXBadgeView_iOS.framework"
+            BlueprintName = "AXBadgeView_iOS"
             ReferencedContainer = "container:AXBadgeView-Swift.xcodeproj">
          </BuildableReference>
-      </BuildableProductRunnable>
+      </MacroExpansion>
    </ProfileAction>
    <AnalyzeAction
       buildConfiguration = "Debug">
